@@ -3,5 +3,5 @@
 1. 用js实现图像或数据缩放插值方法，实现了“图像双线性插值法”和“三次卷积内插法”(三次内插法)
 2. 基于Marching squares算法，进行等值线的提取
 3. 在canvas中生成数据的场图（类似热力图）、等值线
-
+# 生成示例图片
 ![生成图片](https://raw.githubusercontent.com/knight0905/js-picture-process/master/img/hum.png)
